@@ -1,2 +1,21 @@
 
-/* Your CSS Code here. */
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+}
+
+img {
+  border-radius: 50%;
+  display: block;
+  margin: auto;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+section {
+  margin-top: 20px;
+}
